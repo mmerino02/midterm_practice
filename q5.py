@@ -1,4 +1,4 @@
-#Write a function that takes an integer as parameter and returns a list of all thedivisors of that number:ex: 47 -> [1,47], 28 -> [1,2,4,7,14,28]
+#Write a function that takes an integer as parameter and returns a list of all the divisors of that number:ex: 47 -> [1,47], 28 -> [1,2,4,7,14,28]
 
 def get_divisors(n):
     divisors = []
